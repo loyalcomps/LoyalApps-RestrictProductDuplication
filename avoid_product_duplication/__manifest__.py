@@ -30,7 +30,7 @@
     'company': 'Loyal IT Solutions Pvt Ltd',
     'maintainer': 'Loyal IT Solutions Pvt Ltd',
     'website': "https://loyalitsolutions.com",
-    'license': 'AGPL-3',
+    'license': 'LGPL-3',
     'version': '16.0.1.0.0',
     'data':[
         'security/ir.model.access.csv',
