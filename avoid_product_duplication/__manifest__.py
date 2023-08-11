@@ -35,5 +35,5 @@
         'security/ir.model.access.csv',
         'views/duplication_settings.xml',
     ],
-
+    'images': ['static/description/banner.png'],
 }
